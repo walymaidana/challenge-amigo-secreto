@@ -1,10 +1,10 @@
 <h1>Challenge amigo secreto</h1>
 
-El desarrollo comenzó a partir de crear una lista vacía para incorporar amigos.
+  El desarrollo comenzó a partir de crear una lista vacía para incorporar amigos.
 
-let amigos = [];
+  let amigos = [];
 
-funtion agregar amigo y verificación de nombre:
+  funtion agregar amigo y verificación de nombre:
 
   La función que se detalla arriba es llamada para agregar amgios a la lista.
   Permite al usuario agregar nombres de amigos a la lista interactiva. Se verifica que no 
@@ -13,7 +13,7 @@ funtion agregar amigo y verificación de nombre:
   funtion actuaizar amigos:
 
   Actualiza la lista de amigos en el DOM.
-  Crea elementos <li> por cada amigo en la lista y los agrega al sistema.
+  Crea elementos lista por cada amigo y los agrega al sistema.
 
   funtion sortear amigo:
 
