@@ -1,6 +1,6 @@
 <h1>Challenge amigo secreto</h1>
 
-. El desarrollo comenzó a partir de crear una lista vacía para incorporar amigos.
+El desarrollo comenzó a partir de crear una lista vacía para incorporar amigos.
 
 let amigos = [];
 
